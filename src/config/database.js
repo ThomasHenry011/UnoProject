@@ -1,8 +1,1 @@
-const { Sequelize } = require('sequelize');
-
-const sequelize = new Sequelize('database', 'username', 'password', {
-  host: 'localhost',
-  dialect: 'postgres'
-});
-
-module.exports = sequelize;
+// Conectar Segunda-feira 23/07
